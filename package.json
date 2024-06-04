@@ -1,0 +1,34 @@
+{
+  "name": "b2isitech",
+  "version": "1.0.0",
+  "main": "expo-router/entry",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web"
+  },
+  "dependencies": {
+    "@expo/html-elements": "^0.10.1",
+    "expo": "~51.0.9",
+    "expo-constants": "~16.0.2",
+    "expo-linking": "~6.3.1",
+    "expo-paypal": "^1.4.1",
+    "expo-router": "~3.5.14",
+    "expo-splash-screen": "~0.27.4",
+    "expo-status-bar": "~1.12.1",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-native": "0.74.1",
+    "react-native-paypal": "^4.1.0",
+    "react-native-safe-area-context": "4.10.1",
+    "react-native-screens": "3.31.1",
+    "react-native-swiper": "^1.6.0",
+    "react-native-web": "~0.19.10",
+    "react-native-webview": "^13.10.2"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.20.0"
+  },
+  "private": true
+}
